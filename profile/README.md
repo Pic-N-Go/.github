@@ -40,12 +40,12 @@
 - **Documentation:** Swagger (Springdoc OpenAPI)
 
 ### Frontend
-- **Framework:** React / Next.js (팀 스택에 맞게 수정해주세요)
-- **Styling:** Tailwind CSS / Styled-components
+- **Framework:** React Native
+- **Styling:** 
 
 ### Infrastructure & DevOps
-- **Cloud:** AWS (EC2, RDS, S3) / Docker (예정)
-- **CI/CD:** GitHub Actions (예정)
+- **Cloud:** AWS (EC2, RDS, S3) / Docker
+- **CI/CD:** GitHub Actions
 
 <br/>
 
