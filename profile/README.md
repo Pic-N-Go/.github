@@ -29,7 +29,7 @@
 
 <br/>
 
-## ✨ Core Features
+## Core Features
 
 - **스마트 코스 플래닝** : 가고 싶은 장소(스팟)를 담아 나만의 여행 코스를 자유롭게 생성 및 편집할 수 있습니다.
 - **실시간 길찾기 자동화** : 코스 내 명소를 추가하거나 순서를 바꿀 때마다 **카카오모빌리티 API**가 실시간 교통정보를 반영해 총 이동 시간과 거리를 자동 계산합니다.
@@ -38,7 +38,7 @@
 
 <br/>
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 ### Backend
 - **Framework:** Spring Boot 4.0.6, Spring Data JPA
@@ -59,7 +59,7 @@
 
 <br/>
 
-## ⚙️ CI/CD & Workflow
+## CI/CD & Workflow
 
 프로젝트의 안정적인 운영과 효율적인 협업을 위해 자동화 인프라를 적극적으로 활용합니다.
 
@@ -78,7 +78,7 @@ Pick-N-Go는 사용자에게 최적의 경험을 제공하기 위해 아래의 �
 
 <br/>
 
-## 👋 Team Members
+## Team Members
 
 | 포지션 | 이름 | GitHub | 역할 및 담당 업무 |
 |:---:|:---:|:---:|---|
@@ -89,7 +89,7 @@ Pick-N-Go는 사용자에게 최적의 경험을 제공하기 위해 아래의 �
 
 <br/>
 
-## 📁 Repository Structure
+## Repository Structure
 
 우리 팀은 프론트엔드와 백엔드를 각각 독립된 레포지토리로 관리합니다.
 - [**PNG_backend**](https://github.com/Pick-N-Go/PNG_backend) : Spring Boot 기반의 백엔드 API 서버
