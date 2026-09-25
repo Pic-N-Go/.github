@@ -83,9 +83,9 @@ Pick-N-Go는 사용자에게 최적의 경험을 제공하기 위해 아래의 �
 | 포지션 | 이름 | GitHub | 역할 및 담당 업무 |
 |:---:|:---:|:---:|---|
 | **FullStack** | 박예은 | [@yeni023](https://github.com/yeni023) | 온보딩 및 홈 화면, 3단계 확장형 지도 뷰, 스팟 상세(정보) 및 커뮤니티 피드 기능 구현 |
-| **FullStack** | 모정민 | [@mozmin](https://github.com/mozmin) | 여행 계획(코스) 플래닝, 외부 API(길찾기/날씨/골든아워) 연동, 위시리스트 알림 시스템 구축 |
+| **FullStack** | 모정민 | [@mozmin](https://github.com/mozmin) | 통합 검색 기능, 여행 계획(코스) 플래닝, 외부 API(길찾기/날씨/골든아워) 연동, 위시리스트 알림 시스템 구축 |
 | **FullStack** | 소영재 | [@YoungjaeSo](https://github.com/YoungjaeSo) | 이메일/소셜 로그인 인증, 스팟 실시간 채팅, 사진 등록(EXIF 파싱) 및 풀스크린 뷰어 구현 |
-| **FullStack** | 이예인 | [@yeainlee](https://github.com/yeainlee) | 통합 검색 기능, 주간 콘테스트 시스템, 커뮤니티 게시물 작성, 마이페이지/프로필 구현 |
+| **FullStack** | 이예인 | [@yeainlee](https://github.com/yeainlee) | 주간 콘테스트 시스템, 커뮤니티 게시물 작성, 마이페이지/프로필 구현 |
 
 <br/>
 
